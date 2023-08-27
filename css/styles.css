@@ -27,7 +27,18 @@ ul {
   list-style: none;
 }
 
+/* Not Global*/
+
+.section-feature-heading-text,
+.section-product-heading-text,
+.section-team-heading-text,
+.section-portfolio-heading-text,
+.section-projects1-heading-text,
+.section-projects2-heading-text,
+.section-projects3-heading-text,
 h2,
+.feature-list-item-heading-text,
+.team-list-item-name,
 h3,
 p,
 li {
