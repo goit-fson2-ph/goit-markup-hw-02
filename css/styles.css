@@ -107,6 +107,9 @@ address{
   line-height: 1.50em; /* 150% */
   letter-spacing: 0.32px;
 }
+.nav-list-item-link:hover {
+  color: var(--button-text-color-inactive);
+}
 
 .address-list-item-link {
   color: var(--address-link-text-color);
