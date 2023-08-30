@@ -163,9 +163,6 @@ address{
   background-color: var(--background-color);
 }
 
-.team{
-  background-color: var(--footer-text-color);
-}
 
 /* Section Heading - h2*/
 .section-feature-heading-text,
